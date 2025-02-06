@@ -23,9 +23,17 @@ go build -o github-activity
 
 ### Example Output
 ```
-- Pushed 3 commits to repo-name
-- Opened an issue in repo-name
-- Starred repo-name
+Recent activity:
+
+- Pushed to saurabhdhingra/github-activity
+Date: 2025-02-06 10:38:36
+URL: https://github.com/saurabhdhingra/github-activity
+Commit Message: Changes to meta data being displayed.
+
+- Pushed to saurabhdhingra/CSES-Solutions
+Date: 2025-02-04 13:50:04
+URL: https://github.com/saurabhdhingra/CSES-Solutions
+Commit Message: Segregating sections
 ```
 
 ## Error Handling
