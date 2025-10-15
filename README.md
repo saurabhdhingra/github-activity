@@ -40,5 +40,8 @@ Commit Message: Segregating sections
 - Handles invalid GitHub usernames.
 - Handles API failures and rate limits.
 
+## Acknowledgement
+https://roadmap.sh/projects/github-user-activity
+
 
 
